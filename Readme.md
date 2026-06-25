@@ -34,9 +34,8 @@ El frontend en C# rastrea la ventana activa cada segundo y la guarda en SQL Serv
 ##  Instalación (usuarios)
 
 1. Descarga el instalador desde la sección [Releases](../../releases)
-2. Instala **SQL Server LocalDB** si no lo tienes ([descarga aquí](https://www.microsoft.com/en-us/sql-server/sql-server-downloads))
-3. Ejecuta `Weezo_Setup.exe` y sigue los pasos
-4. Al abrir, la app te pedirá tu API key de Groq (gratis en [console.groq.com](https://console.groq.com/keys))
+2. Ejecuta `Weezo_Setup.exe` y sigue los pasos
+3. Al abrir, la app te pedirá tu API key de Groq (gratis en [console.groq.com](https://console.groq.com/keys))
 
 ##  Desarrollo (correr el código)
 
