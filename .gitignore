@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+publish/
+build/
+dist/
+*.spec
+*.user
+__pycache__/
+WeezoInstaller/
