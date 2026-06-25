@@ -53,7 +53,7 @@ El frontend en C# rastrea la ventana activa cada segundo y la guarda en SQL Serv
 
 ## 👤 Autor
 
-**Starlyn** — Estudiante de Tecnologías de la Información en el ITLA (Instituto Tecnológico de Las Américas)
+**Starlyn Castillo** — Estudiante de Tecnologías de la Información en el ITLA (Instituto Tecnológico de Las Américas)
 
 ---
 
